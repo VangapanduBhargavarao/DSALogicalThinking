@@ -199,3 +199,19 @@ for row in range(rows,0,-1):
 *********
 
 """
+
+
+
+
+
+
+
+### Print the right andgled triangle
+
+"""
+rows=int(input())
+for row in range(rows):
+    for col in range(row):
+        print("*",end="")
+    print()
+"""
