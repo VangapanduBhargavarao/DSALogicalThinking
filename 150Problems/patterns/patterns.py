@@ -15,7 +15,7 @@ for row in range(rows):
 #### 2nd patterns
 """
 *
-**
+** 
 ***
 ****
 *****
