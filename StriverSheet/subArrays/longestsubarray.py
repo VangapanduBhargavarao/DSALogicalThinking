@@ -56,6 +56,8 @@ def longest_subarray(nums,k):
 
 ## we return the subarray.
 ### here we use the sliding window+ two pointers approach to solve the problem.
+### this one will work for the if the array have the postives and zzeros.
+
 def subarray(nums,k):
     n=len(nums)
     left=right=longest=ansstart=ansend=0
